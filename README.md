@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Data scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharanigiri3017-
-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="dharanigiri3017-glitch" /> </p>
+glitch&label=Profile%20views&color=0e75b6&style=flat" alt="dharanigiri3017-glitch" /> 
+</p>
 
 <h3 align="left">Connect with me:</h3>
 
